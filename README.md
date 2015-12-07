@@ -1,5 +1,3 @@
-# osgeye
-
 OSGEye provides a set of managing and monitoring tools for OSGi enabled platforms. Currently a command line console and JMX is supported.
 
 The latest release is v0.0.2. See the installation guide and user guide to get started.
